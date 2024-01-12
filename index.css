@@ -1,0 +1,27 @@
+header {
+    text-align:center;
+    color: #7bbfc2;
+    font-size: 28pt;
+}
+h1 {
+    background-color: #f6f0e8;
+    padding: 5px;
+    border: 1px solid black;
+    width: 600px;
+   
+}
+.container {
+    background-color: grey;
+    border: 1px solid white;
+    width: 300px;
+}
+.row {
+    display: inline-flex;
+    background-color: white;
+}
+img {
+    padding: 5px;
+    border: 1px solid black;
+    height: 150px;
+
+}
